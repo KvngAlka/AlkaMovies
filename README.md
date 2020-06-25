@@ -1,6 +1,6 @@
 # alkamovies
 
-A new Flutter application.
+An app that will motivate beginners. It's UI a beginner can start up with
 
 ## Getting Started
 
